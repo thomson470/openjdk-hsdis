@@ -13,5 +13,5 @@
 
 The JDK will look for the hsdis binary in the following paths:
 
-* &lt;JDK_HOME&gt;/lib/server/hsdis-&ltarch&gt;.&lt;extension&gt;
+* &lt;JDK_HOME&gt;/lib/server/hsdis-&lt;arch&gt;.&lt;extension&gt;
 * &lt;JDK_HOME&gt;/lib/hsdis-&lt;arch&gt;.&lt;extension&gt;
